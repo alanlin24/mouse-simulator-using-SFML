@@ -28,4 +28,6 @@ Be the nimblest mouse!!!
 First, install SFML as the following vid <br>
 https://www.youtube.com/watch?v=axIgxBQVBg0&t=3s<br>
 FYI, I'm using Visual Studio as my IDE and SFML 2.5.1 when developing.<br>
-And pack everything (main.cpp and stuff in the resource folder) in visual studio together and follow the instructions on how to set SFML in the IDE.
+And pack everything (main.cpp and stuff in the resource folder) in visual studio together and follow the instructions in the above vid on how to set SFML in the IDE.
+
+#note: your may need to take a close look at where you store the resouces folder if the game fails to execute properly.
