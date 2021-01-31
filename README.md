@@ -1,2 +1,2 @@
-# rat-racing-game-using-SFML
-a rat racing game using SFML to develop
+# mouse-simulator-using-SFML
+a mouse simulator using SFML to develop
