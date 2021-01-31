@@ -1,5 +1,6 @@
 # mouse-simulator-using-SFML
-a mouse simulator using SFML to develop
+a mouse simulator using SFML to develop.
+This game was a final project for my first programmming course in college, and was done within a month. The code is pretty lengthy because I was not familiar with OOP bach then and this game still has much to improve.
 
 ## How to play
 
@@ -25,5 +26,6 @@ Be the nimblest mouse!!!
 
 ## How to run this code
 First, install SFML as the following vid <br>
-https://www.youtube.com/watch?v=axIgxBQVBg0&t=3s
-FYI, I'm using Visual Studio as my IDE and SFML 2.5.1 when developing.
+https://www.youtube.com/watch?v=axIgxBQVBg0&t=3s<br>
+FYI, I'm using Visual Studio as my IDE and SFML 2.5.1 when developing.<br>
+And pack everything (main.cpp and stuff in the resource folder) in visual studio together and follow the instructions on how to set SFML in the IDE.
