@@ -1,6 +1,7 @@
 # mouse-simulator-using-SFML
 a mouse simulator using SFML to develop.
-This game was a final project for my first programmming course in college, and was done within a month. The code is pretty lengthy because I was not familiar with OOP bach then and this game still has much to improve.
+This game was a final project for my first programmming course in college, and was done within a month. The code is pretty lengthy because there are actually many duplicates in it and that was because I was not familiar with OOP back then.<br>
+This game still has much to improve, so if u have any advice. Just feel free to reach out.
 
 ## How to play
 
